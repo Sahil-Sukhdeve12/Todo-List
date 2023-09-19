@@ -11,3 +11,4 @@ these options will be displayed on webpage and one prompt will be there to get u
 -> if you choose write add on prompt bar then you need to write which tasks you want to add. after adding prompt bar will asked you that 4 options more whether you want to see list,add,delete or quit.
 ->after performing tasks you need to right click then go to inspect bar then in console you will see all queries that you have performed.
 
+link-> http://127.0.0.1:5500/Todo-List/index1.html
