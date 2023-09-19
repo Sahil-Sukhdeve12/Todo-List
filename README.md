@@ -12,3 +12,4 @@ these options will be displayed on webpage and one prompt will be there to get u
 ->after performing tasks you need to right click then go to inspect bar then in console you will see all queries that you have performed.
 
 link-> http://127.0.0.1:5500/Todo-List/index1.html
+ 
